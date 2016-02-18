@@ -1,0 +1,6 @@
+E:\WorkShops\Factorypattern\Factorypattern\bin\Debug\Factorypattern.exe.config
+E:\WorkShops\Factorypattern\Factorypattern\obj\Debug\Factorypattern.csprojResolveAssemblyReference.cache
+E:\WorkShops\Factorypattern\Factorypattern\bin\Debug\Factorypattern.exe
+E:\WorkShops\Factorypattern\Factorypattern\bin\Debug\Factorypattern.pdb
+E:\WorkShops\Factorypattern\Factorypattern\obj\Debug\Factorypattern.exe
+E:\WorkShops\Factorypattern\Factorypattern\obj\Debug\Factorypattern.pdb
